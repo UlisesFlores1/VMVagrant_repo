@@ -1,0 +1,198 @@
+mkdir clase4
+ls -l
+cd clase4/
+pmd
+history
+cat > archivo1.txt
+ls -l
+cat archivo1.txt
+cat > archivo1.txt
+ls -1
+ls -l
+-v
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cd ..
+pwd
+ls -l
+cd repogit
+la -l
+git clone git@github.com:UlisesFlores1/VMVagrant_repo.git
+ls -l
+cd VMVagrant_repo/
+ls -l
+cd ..
+ls -l
+pwd
+cd ..
+pwd
+exit
+pwd
+/clase4_113
+pwd
+sudo apt update
+sudo apt install tree
+tree
+pwd
+ls -l
+mkdir clase5
+ls -l
+cd clase5
+pwd
+ll -l
+ls -l
+mkdir practica
+ls -l
+cd practica/
+pwd
+touch practica1.txt
+ls -l
+cat practica1.txt
+cp practica1.txt practica2.txt 
+ls -l
+rm practica1.txt
+ls -l
+pwd
+cd ..
+cd practica/
+cd ..
+mkdir -p flore_2/{mama/hijo{1..3},papa/{hijo{1..3},ahijado}}
+tree
+pwd
+grep vargrant /etc/passwd
+pwd
+cd..
+pwd
+cd ..
+pwd
+sudo grouadd Alumnos
+car /etc/grouadd
+car /etc/grou
+sudo car /etc/grou
+pwd
+sudo car /etc/grouadd
+pws
+pwd
+vagrant halt
+pwd
+exit
+pwd
+ls -l
+cd repogit
+ls -l
+pwd
+cd VMVagrant_repo
+pwd
+ls .l
+ls -l
+cat/etc/os-release
+cat /etc/os-release
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i home_url /etc/os-release
+grep -i home_url /etc/os-release > datos_url-txt
+ls
+cat datos_url.txt 
+cat datos_url-txt 
+ls
+whoami
+echo "usuario=$(whoami)" > datos_usuario.txt
+echo "usuario=$(whoami)" > datos_usuario-txt
+ls
+cat datos_usuario.txt
+cd ..
+pwd
+cd ..
+pwd
+cd vagrant
+pwd
+exit
+pwd
+ls -l
+cd repogit
+ls -l
+cd VMVagrant_repo
+pwd
+ls -l
+ls
+cat datos_usuario.txt
+ls
+pwd
+ls
+git add
+git add .
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git push
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuario.txt"
+git config --global user.email "ulises121314@gmail.com"
+git config --global user.name"UlisesFlores1"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git push
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git config --global user.email "ulises121314@gmail.com"
+git config --global user.name "UlisesFlores1"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git push
+ls
+cat datos_usuario.txt
+grep "model name" /proc/cpuinfo
+| head -n1
+grep "model name" /proc/cpuinfo | head -n1
+| head -n1
+grep "model name" /proc/cpuinfo | head -n1
+>> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git commit -m "feat: añadiendo información de CPU"
+git push
+cat <<EOF>> readme.md
+alumno: ulises
+división: 113
+turno: manana
+EOF
+
+ls
+cat readme.md
+git add readme.md datos_usuario.txt
+git commit -m "ADD: añadiendo Readme y datos de usuario"
+git push
+mkdir -p Ar_y_SO/{materia1/{uni1,uni2,uni3},materia2/{uni1,uni2,uni3}
+ls
+tree
+nano script_dir.sh
+pwd
+ls -l
+cd repogit
+ls -l
+cd VMVagrant_repo
+ls -l
+tree
+lsls
+nano script_dir.sh
+pwd
+ls -l
+cd repogit
+ls -l
+VMVagrant_repo
+cd VMVagrant_repo
+pwd
+ls -l
+ls
+chmod +x script_dir.sh
+ls -l
+./script_dir.sh
+ls
+ls -l
+tree
+git add .
+git commit -m "ADD: añadiendo script"
+git push
+history -a
